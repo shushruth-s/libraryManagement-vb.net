@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\HP\source\repos\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\HP\source\repos\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\HP\source\repos\LMS\LMS\bin\Debug\LMS.xml
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.vbprojAssemblyReference.cache
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.Form1.resources
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.Resources.resources
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.xml
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.userpage.resources
+C:\Users\HP\source\repos\LMS\LMS\obj\Debug\LMS.BookList.resources
